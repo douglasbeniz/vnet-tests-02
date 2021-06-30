@@ -1,0 +1,25 @@
+# -----------------------------------------------------------------------------
+# Vida Nova Escola de Technologia
+#
+# Python backend development training - Class one
+# -----------------------------------------------------------------------------
+# Software testing - Lesson one
+# -----------------------------------------------------------------------------
+
+Requirements for the first exercise.
+
+Write a function, called "join", that returns a string of values received as a list of integer numbers where each item is separated by a specific delimiter, also received as input parameter by this function.
+
+So:
+ * input parameters:
+	- a list of integers;
+	- a string with a character to use as delimier for the output string;
+ * output of the function:
+	- a string with all items separated by received delimiter;
+Exemple:
+ * inputs:
+	- [1,2,3]
+	- "-"
+ * output:
+ 	- "1-2-3"
+
